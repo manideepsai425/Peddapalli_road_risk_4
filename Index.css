@@ -13,3 +13,5 @@ body {
 
 input:focus { outline: none; }
 button:active { transform: scale(0.98); }
+
+/* This is a CSS comment */
